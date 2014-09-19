@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://barrybonds.github.io
+name: barrybonds
+description: My awesome site
+twitter: 
+paginate: 5
